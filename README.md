@@ -1,2 +1,3 @@
-# lyrics
+# Lyrics
+
 Chinese lyrics translations
